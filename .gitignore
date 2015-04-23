@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# Experimental Cpp
+Test.cpp
+
+#TestCase
+*.txt
