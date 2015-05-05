@@ -2,7 +2,7 @@
 ##Solved OJ Problems
 
 ######UVa OJ
-> <filename>.txt can be used as the testcase
+> filename.txt can be used as the testcase
 ######LeetCode OJ
 ######Hackerrank
 
