@@ -31,4 +31,5 @@
 Test.cpp
 
 #TestCase
-*.txt
+input.txt
+output.txt
